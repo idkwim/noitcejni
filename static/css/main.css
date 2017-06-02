@@ -1,0 +1,157 @@
+
+html,body { 
+	height: 90%; 
+	margin: 0; 
+	padding: 0; 
+	font-family: 'Noto Sans', sans-serif; 
+}
+
+body{
+	padding-top: 70px;
+	background: #EAEAEA;
+}
+
+a{
+	text-decoration: none;
+	border: none;
+
+}
+
+
+input[type="submit"]{
+    background-color: #EAEAEA;
+    color: black;
+    border-radius: 3px;
+}
+header{
+	width: 100%;
+	min-width:950px;
+	height:70px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	margin:0 auto;
+	z-index:10000;
+	background: #fff;
+	border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+
+header .left{
+	width:200px;
+	height:70px;
+	line-height:50px;
+	float:left;
+	margin:0 0 0 30px;
+	font-size:30px;
+	color:#000;
+}
+header .left li{
+        display:inline-block;
+        font-size: 20px;
+        color:#5E5E5E;
+
+        line-height:70px;
+        padding: 0 2%;
+
+        cursor:pointer;
+}
+
+header .left li a {
+	color:#5E5E5E;*/
+}
+
+header .left li a:hover{
+        color:#96BBD6;
+}
+
+header .right {
+	width:400px;
+	height:70px;
+	float:right;
+	margin: 0 0 0 80px;
+	padding:0;
+}
+header .right li{
+	display:inline-block;
+	font-size: 20px;
+	color:#5E5E5E;
+
+	line-height:70px;
+	padding: 0 2%;
+
+	cursor:pointer;
+}
+
+header .right li a {
+	color:#5E5E5E;
+}
+
+header .right li a:hover{
+	color:#96BBD6;
+}
+
+
+footer {
+	text-align: center;
+	bottom: 0;
+	background: rgba(0,0,0,0.8);
+}
+section.box1{
+	width: 60%;
+	height: 250px;
+	background-color:white;	
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;	
+	margin-top: 10%;
+	color:#5E5E5E;
+}
+section.box2{
+        width: 60%;
+        height: 380px;
+        background-color:white;
+        text-align: center;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 5%;
+        color:#5E5E5E;
+}
+
+section.box3{
+        width: 60%;
+        height: 250px;
+        background-color:white;
+        text-align: center;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 5%;
+        color:#5E5E5E;
+}
+
+section.box5{
+        width: 60%;
+        height: 480px;
+        background-color:white;
+        text-align: center;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 5%;
+        color:#5E5E5E;
+}
+ 
+
+section.box4{
+        width: 60%;
+        height: 1000px;
+        background-color:white;
+        text-align: center;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 5%;
+        color:#5E5E5E;
+}
+
+
+
+
+
